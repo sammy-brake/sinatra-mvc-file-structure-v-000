@@ -3,7 +3,7 @@ class Dog
   @@all = []
 
   def initialize(name, breed, age)
-  end 
+  end
 
   def self.all?
     @@all
